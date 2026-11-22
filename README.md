@@ -3,9 +3,11 @@
 **Anand Mathur**<br>
 MS Business Analytics | University of Illinois Chicago
 
-I’m interested in how financial institutions use data to make decisions when the evidence is incomplete and the trade-offs matter. My projects connect financial statement analysis, quantitative risk management, and machine learning to questions about company performance, lending, market risk, and fraud. I use data engineering to automate repeatable analyses and statistical modeling to test what the data supports. I’m especially interested in interpretable AI and optimization, where analysts need to understand why a model flags a case or how a decision affects review capacity. I build interactive tools so people can explore those decisions and inspect the evidence behind them.
+My background combines engineering, business analytics, and hands-on experience in decision science, product analytics, and applied research. I enjoy working through complex problems, exploring unfamiliar technologies, and finding ways to turn data into meaningful insights. Through my work at Farmers Insurance, Sprinklr, and academic research, I've developed an appreciation for experimentation, data quality, and communicating analytical findings to different audiences.
 
-[Featured Projects](#featured-projects) · [Technical Skills & Tools](#technical-skills--tools) · [About Me](#about-me)
+The projects below reflect my interest in applying statistical modeling, machine learning, and data engineering to real-world problems, with a particular focus on financial analytics and decision-support applications.
+
+[Featured Projects](#featured-projects) · [Professional Experience](#professional-experience) · [Technical Skills & Tools](#technical-skills--tools) · [About Me](#about-me)
 
 ## Featured Projects
 
@@ -69,15 +71,32 @@ In this TransUnion-sponsored UIC MSBA capstone, our team compared genetic algori
 
 **Key skills** · `Python` `DEAP` · Evolutionary search, multi-objective optimization, interpretable rule design, and precision, recall, and alert-rate evaluation.
 
+## Professional Experience
+
+**Decision Science Intern — Farmers Insurance | May 2026–Present**
+
+Working in product analytics, with a focus on understanding agent behavior, recommendation-engine performance, and business outcomes. My work includes A/B testing, incremental-lift measurement, conversion-funnel analysis, and developing Streamlit applications that help teams explore results independently.
+
+**Quality Analyst — Zuru Services (Sprinklr Client) | Dec 2023–Dec 2024**
+
+Worked with large-scale customer experience data, validating more than 500,000 records weekly and improving the reliability of analytical outputs. Collaborated with product and engineering teams on model improvements, automated quality checks, and performance reporting.
+
+**Research Assistant — National Institute of Technology, Imphal | Oct 2020–Dec 2022**
+
+Applied Python-based numerical simulations and experimental analysis to evaluate engineering designs, compare performance, and support reproducible research.
+
 ## Technical Skills & Tools
 
-- **Programming & Data Engineering** · Python, SQL, pandas, DuckDB, APIs, and reproducible data pipelines.
-- **Machine Learning & Statistics** · Logistic regression, random forest, XGBoost, PCA, model validation, probability calibration, and SHAP explainability.
-- **Financial & Quantitative Analytics** · Financial statement analysis, credit and portfolio risk, bond pricing, VaR, Expected Shortfall, Monte Carlo, and fraud optimization.
-- **Applications & Decision Support** · Streamlit, interactive dashboards, evidence-backed research interfaces, and financial visualization.
+- **Programming & Data Engineering** — Python, R, SQL, Pandas, NumPy, DuckDB, Snowflake, AWS, data pipelines, and automation.
+- **Machine Learning & Statistical Analysis** — Logistic Regression, Random Forest, XGBoost, PCA, model validation, probability calibration, SHAP, and statistical hypothesis testing.
+- **Experimentation & Product Analytics** — A/B Testing, experiment design, incremental-lift measurement, funnel analysis, segmentation, and selection-bias assessment.
+- **Financial & Quantitative Analytics** — Financial statement analysis, credit risk, portfolio risk, bond pricing, VaR, Expected Shortfall, Monte Carlo simulation, and optimization.
+- **Visualization & Decision Support** — Streamlit, Tableau, Power BI, interactive dashboards, and analytical reporting.
 
 ## About Me
 
-I'm currently pursuing my Master's in Business Analytics at the University of Illinois Chicago, with a background in engineering and experience across product analytics, quality assurance, and decision science. I've always enjoyed figuring out how things work, learning new tools, and finding ways to turn complex problems into practical solutions. Working across different roles and projects has taught me as much about communicating ideas and collaborating with people as it has about the technical side of analytics.
+My journey into analytics wasn't exactly linear. I started in mechanical and automation engineering, explored computational research, and eventually found myself drawn to the intersection of technology, data, and business decisions. Each experience has pushed me to learn something new, whether that's a technical skill, a different way of approaching problems, or how to communicate ideas more effectively.
 
-Outside of work and academics, I love traveling, experiencing different cultures, and exploring new places. Whether it's trying unfamiliar cuisines, meeting people from different backgrounds, or picking up a new skill, I'm always looking for something new to learn.
+I also serve as Vice President of Internal Operations for the Business Analytics Organization at UIC, where I enjoy collaborating with fellow students and contributing to initiatives that bring people together.
+
+Outside academics and work, I love traveling, exploring new places, and experiencing different cultures. From meeting people with different perspectives to discovering new cuisines, I enjoy experiences that challenge my assumptions and teach me something I didn't know before.
