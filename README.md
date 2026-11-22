@@ -78,4 +78,6 @@ In this TransUnion-sponsored UIC MSBA capstone, our team compared genetic algori
 
 ## About Me
 
-My MS in Business Analytics at the University of Illinois Chicago gave me practice translating business questions into statistical models and interactive tools. Working with teammates on the TransUnion capstone sharpened my interest in how teams evaluate analytical results against operational constraints. That experience continues to shape my interests in quantitative finance, financial services, and applied data science.
+I'm currently pursuing my Master's in Business Analytics at the University of Illinois Chicago, with a background in engineering and experience across product analytics, quality assurance, and decision science. I've always enjoyed figuring out how things work, learning new tools, and finding ways to turn complex problems into practical solutions. Working across different roles and projects has taught me as much about communicating ideas and collaborating with people as it has about the technical side of analytics.
+
+Outside of work and academics, I love traveling, experiencing different cultures, and exploring new places. Whether it's trying unfamiliar cuisines, meeting people from different backgrounds, or picking up a new skill, I'm always looking for something new to learn.
